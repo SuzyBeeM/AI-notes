@@ -7,3 +7,8 @@ Notes for AI learning
 *italic*
 
 **bold**
+
+- Day 1
+
+# AI model basic principle
+
